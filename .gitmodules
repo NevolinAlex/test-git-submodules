@@ -1,0 +1,3 @@
+[submodule "hessianscharp"]
+	path = hessianscharp
+	url = https://github.com/NevolinAlex/hessianscharp
